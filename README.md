@@ -1,1 +1,1 @@
-# ManiFramework
+# ManideepFramework
